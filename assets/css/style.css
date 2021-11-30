@@ -95,15 +95,13 @@ table {
 table td {
     cursor: pointer;
     border-bottom: 11px solid #fff;
-    padding: 20px;
-    width: 90;
-    height: 10;
+    padding: 10px;
     background: #312121;
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: white;
     position: relative;
-    top: -55px;
+    top: -78px;
 }
 
 table label {
