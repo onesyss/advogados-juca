@@ -1,0 +1,212 @@
+@font-face {
+  font-family: 'Finax Icons';
+  src:  url('fonts/finax.eot?pytwkg');
+  src:  url('fonts/finax.eot?pytwkg#iefix') format('embedded-opentype'),
+    url('fonts/finax.ttf?pytwkg') format('truetype'),
+    url('fonts/finax.woff?pytwkg') format('woff'),
+    url('fonts/finax.svg?pytwkg#finax') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fnicon-"], [class*=" fnicon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Finax Icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fnicon-phone:before {
+  content: "\e900";
+}
+.fnicon-quote:before {
+  content: "\e901";
+}
+.fnicon-arrow-left:before {
+  content: "\e911";
+}
+.fnicon-arrow-right:before {
+  content: "\e912";
+}
+.fnicon-plus2:before {
+  content: "\e91b";
+}
+.fnicon-magnifier3:before {
+  content: "\e954";
+}
+.fnicon-play-button1:before {
+  content: "\e96e";
+}
+.fnicon-arrow-bottom:before {
+  content: "\e90f";
+}
+.fnicon-arrow-top:before {
+  content: "\e910";
+}
+.fnicon-light-bulb-1:before {
+  content: "\e902";
+}
+.fnicon-sprout:before {
+  content: "\e903";
+}
+.fnicon-goal:before {
+  content: "\e904";
+}
+.fnicon-visualization:before {
+  content: "\e905";
+}
+.fnicon-trophy:before {
+  content: "\e906";
+}
+.fnicon-panel:before {
+  content: "\e907";
+}
+.fnicon-briefcase:before {
+  content: "\e908";
+}
+.fnicon-bar-chart:before {
+  content: "\e909";
+}
+.fnicon-startup:before {
+  content: "\e90a";
+}
+.fnicon-dollar:before {
+  content: "\e90b";
+}
+.fnicon-thinking:before {
+  content: "\e90c";
+}
+.fnicon-management:before {
+  content: "\e90d";
+}
+.fnicon-time:before {
+  content: "\e90e";
+}
+.fnicon-light-bulb:before {
+  content: "\e913";
+}
+.fnicon-humanpictos:before {
+  content: "\e914";
+}
+.fnicon-team:before {
+  content: "\e915";
+}
+.fnicon-package:before {
+  content: "\e916";
+}
+.fnicon-teamwork:before {
+  content: "\e917";
+}
+.fnicon-care:before {
+  content: "\e918";
+}
+.fnicon-handshake:before {
+  content: "\e919";
+}
+.fnicon-puzzle:before {
+  content: "\e91a";
+}
+.fnicon-networking-2:before {
+  content: "\e91c";
+}
+.fnicon-user-1:before {
+  content: "\e91d";
+}
+.fnicon-user:before {
+  content: "\e91e";
+}
+.fnicon-chat:before {
+  content: "\e91f";
+}
+.fnicon-networking-1:before {
+  content: "\e920";
+}
+.fnicon-group:before {
+  content: "\e921";
+}
+.fnicon-worldwide:before {
+  content: "\e922";
+}
+.fnicon-podium:before {
+  content: "\e923";
+}
+.fnicon-idea-2:before {
+  content: "\e924";
+}
+.fnicon-laptop-1:before {
+  content: "\e925";
+}
+.fnicon-target:before {
+  content: "\e926";
+}
+.fnicon-networking:before {
+  content: "\e927";
+}
+.fnicon-idea-1:before {
+  content: "\e928";
+}
+.fnicon-coin-1:before {
+  content: "\e929";
+}
+.fnicon-presentation:before {
+  content: "\e92a";
+}
+.fnicon-flag:before {
+  content: "\e92b";
+}
+.fnicon-diamond:before {
+  content: "\e92c";
+}
+.fnicon-like:before {
+  content: "\e92d";
+}
+.fnicon-settings:before {
+  content: "\e92e";
+}
+.fnicon-ipo:before {
+  content: "\e92f";
+}
+.fnicon-contract:before {
+  content: "\e930";
+}
+.fnicon-line-chart:before {
+  content: "\e931";
+}
+.fnicon-coin:before {
+  content: "\e932";
+}
+.fnicon-idea:before {
+  content: "\e933";
+}
+.fnicon-hourglass:before {
+  content: "\e934";
+}
+.fnicon-laptop:before {
+  content: "\e935";
+}
+.fnicon-money-bag:before {
+  content: "\e936";
+}
+.fnicon-stationery:before {
+  content: "\e937";
+}
+.fnicon-growth:before {
+  content: "\e938";
+}
+.fnicon-piggy-bank:before {
+  content: "\e939";
+}
+.fnicon-up:before {
+  content: "\e976";
+}
+.fnicon-down:before {
+  content: "\e977";
+}
